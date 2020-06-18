@@ -1,6 +1,7 @@
 # Total Periods
 
 An extension that adds a Total Periods metric to digital measurements.
+![Total Periods](files/total_periods.png)
 
 ## Instructions
 1. Install this extension by clicking "Install"
